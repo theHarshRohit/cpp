@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1720608512 source:d:\infoway cdac\cpppractice\shapeproject\shape.cpp
+	<iostream>
+	"Shape.h"
+	<string.h>
+
+1720621778 d:\infoway cdac\cpppractice\shapeproject\shape.h
+
+1720590898 source:d:\infoway cdac\cpppractice\shapeproject\point.cpp
+	<iostream>
+	"Point.h"
+
+1720593211 d:\infoway cdac\cpppractice\shapeproject\point.h
+
+1720620725 source:d:\infoway cdac\cpppractice\shapeproject\circle.cpp
+	<iostream>
+	"Circle.h"
+	"Point.h"
+	<string.h>
+
+1720621277 d:\infoway cdac\cpppractice\shapeproject\circle.h
+	"Shape.h"
+	"Point.h"
+
+1720622559 source:d:\infoway cdac\cpppractice\shapeproject\triangle.cpp
+	<iostream>
+	<string>
+	"Triangle.h"
+
+1720621662 d:\infoway cdac\cpppractice\shapeproject\triangle.h
+	"Shape.h"
+
+1720598247 source:d:\infoway cdac\cpppractice\shapeproject\square.cpp
+	<iostream>
+	<string>
+	"Square.h"
+
+1720597933 d:\infoway cdac\cpppractice\shapeproject\square.h
+	"Shape.h"
+
+1720621364 source:d:\infoway cdac\cpppractice\shapeproject\mainshape.cpp
+	<iostream>
+	"Shape.h"
+	"Point.h"
+	"Square.h"
+	"Triangle.h"
+	"Circle.h"
+
